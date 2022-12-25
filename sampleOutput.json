@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Putin meets generals as Russian missiles pound cities",
+            "description": "Senior Ukrainian commanders say Russia could be planning a new attack early next year.",
+            "url": "http://www.bbc.co.uk/news/worldeurope64013052",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C14B/production/_128038494_gettyimages1245668997.jpg",
+            "publishedAt": "20221218T14:37:25.5600549Z",
+            "content": "Russian President Vladimir Putin has met his military chiefs on the same day his forces launched another wave of missiles at Ukraine's infrastructure. \r\nMr Putin spent most of Friday at the headquart… [+4384 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China Covid: Health expert predicts three winter waves",
+            "description": "The country is currently facing a spike in cases after restrictions were eased earlier this month.",
+            "url": "http://www.bbc.co.uk/news/worldasiachina64018467",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C764/production/_128044015_chinacovid.jpg",
+            "publishedAt": "20221218T13:52:23.5603279Z",
+            "content": "A top Chinese health official says he believes China is experiencing the first of three expected waves of Covid infections this winter. \r\nThe country is seeing a surge in cases since the lifting of i… [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Steven Spielberg regrets decimation of shark population after Jaws",
+            "description": "The director tells Desert Island Discs he fears sharks are \"mad\" at him after his 1975 blockbuster.",
+            "url": "http://www.bbc.co.uk/news/entertainmentarts64011888",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF01/production/_128039925_653519b1737b93796720953013e0c63794042a4f.jpg",
+            "publishedAt": "20221218T11:37:42.8091885Z",
+            "content": "Director Steven Spielberg has said he \"truly regrets\" the decimation of the shark population following the success of the Oscarwinning film Jaws. \r\nHe told BBC Radio 4's Desert Island Discs he fears… [+3333 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "World Cup: Argentina v France buildup & Southgate to remain England boss",
+            "description": "Text and radio buildup as Argentina and France prepare for the 2022 Fifa World Cup final at the Lusail Iconic Stadium in Qatar.",
+            "url": "http://www.bbc.co.uk/sport/live/football/61047899",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbcmorphsportseometa/1.23.3/images/bbcsportlogo.png",
+            "publishedAt": "20221218T11:37:34.2160566Z",
+            "content": "A bit more on Gareth Southgate....\r\nHe will lead England's through the qualification campaign for Euro 2024.\r\nThe 52yearold's contract is until December 2024  after the European Championship in Ge… [+339 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Iraq: At least seven police killed in bomb and gun attack",
+            "description": "No group has said it carried out the attack, but Iraqi officials blamed IS militants.",
+            "url": "http://www.bbc.co.uk/news/worldmiddleeast64016600",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17DBC/production/_128042779_gettyimages1238036246.jpg",
+            "publishedAt": "20221218T10:22:17.5934753Z",
+            "content": "At least seven police officers have been killed in a bomb and gun attack in northern Iraq.\r\nThe attack took place near the oilrich city of Kirkuk, about 293km (182 miles) from the capital Baghdad on… [+1543 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine: Russia to deploy musicians to front to boost morale",
+            "description": "The new \"frontline creative brigade\" will consist of volunteer musicians and mobilised recruits.",
+            "url": "http://www.bbc.co.uk/news/worldeurope64016599",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF88/production/_128042275_gettyimages1231664694.jpg",
+            "publishedAt": "20221218T09:22:20.7960174Z",
+            "content": "Russia says it will deploy musicians to the front lines of its war in Ukraine in a bid to boost morale. \r\nThe defence ministry announced the formation of the \"frontline creative brigade\" this week, … [+2760 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Salah Hammouri: Israel deports Palestinian lawyer to France",
+            "description": "Israel says Salah Hamouri is a member of a terror group and has planned attacks on the state.",
+            "url": "http://www.bbc.co.uk/news/worldmiddleeast64016598",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/340C/production/_128042331_gettyimages1236436996.jpg",
+            "publishedAt": "20221218T08:07:21.1240586Z",
+            "content": "Israel's interior ministry says it has deported a PalestinianFrench human rights lawyer after accusing him of security threats.\r\nSalah Hamouri, 37, was escorted onto a flight to France by police ear… [+2846 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine wartime Christmas tree made from camouflage nets",
+            "description": "Volunteers in the city of Mykolaiv have made a Christmas tree out of camouflage nets that will be donated to soldiers after the holidays.",
+            "url": "http://www.bbc.co.uk/news/worldeurope64016356",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D40/production/_128042037_ukraine.png",
+            "publishedAt": "20221218T07:22:19.8120365Z",
+            "content": "Volunteers in the southern Ukrainian city of Mykolaiv have made a Christmas tree out of camouflage nets.\r\nAfter the holidays, the nets will be donated to soldiers fighting on the frontline.\r\nA local … [+108 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Black Americans' complex response to Harry and Meghan's Netflix series",
+            "description": "Many say the series resonated because of their own experiences  but it also raised questions about race.",
+            "url": "http://www.bbc.co.uk/news/worlduscanada64009156",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ADD7/production/_127930544_hmindex2cropped.jpg",
+            "publishedAt": "20221218T00:22:19.4679869Z",
+            "content": "Media caption, WATCH: A clip from the first episode of the Harry and Meghan Netflix series\r\nBryndis Roberts watched the Harry &amp; Meghan documentary series with tears in her eyes. \r\nAn avid fan of … [+6077 chars]"
+        },
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "P22, Hollywood's celebrity mountain lion, ends his reign",
+            "description": "P22's charisma and Griffith Park residence made him an icon. Now, he's passed away.",
+            "url": "http://www.bbc.co.uk/news/worlduscanada64006005",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1D09/production/_128033470_076728a1e46948b29d419495e845bd3c.jpg",
+            "publishedAt": "20221217T20:22:20.2495858Z",
+            "content": "It was late at night in Los Angeles, and artist Corie Mattie had indulged in a glass or two of wine when she heard something outside her home. \r\nAt first she thought her brother's Labrador retriever … [+6570 chars]"
+        }
+    ]
+}
