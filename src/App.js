@@ -2,13 +2,13 @@ import './App.css';
 import React, { useState } from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
+
 const  App =()=> {
   const pageSize = 12;
   // apikey
-  // apiKey = "your api key";
-  const apiKey = process.env.REACT_APP_NEWS_APP_API
+  const apiKey = process.env.NEWS_API || "32ebcf3ceb2445e0be9171766026d1c4"
   // loading bar progress method
   const [progress, setProgress] = useState(0)
 
@@ -34,8 +34,6 @@ const  App =()=> {
             <Route exact path="/technology" element={<News setProgress={setProgress} apiKey={apiKey}  key={"technology"} pageSize={pageSize} category="technology" />} />
           </Routes>
         </BrowserRouter>
-        {/* <Navbar />
-        <News setProgress={setProgress} apiKey={apiKey}  pageSize={pageSize} country="us" category="science" /> */}
       </div>
     )
 

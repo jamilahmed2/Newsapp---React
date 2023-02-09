@@ -35,13 +35,12 @@ const NavBar = (props) => {
                             <Link className="nav-link " to="/technology" aria-current="page">Technology <span className="visually-hidden">(current)</span></Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/about">About</Link>
+                            <a className="nav-link" style={{opacity:"70%",fontWeight:"700"}} href="https://github.com/jamilahmed2" target='_blank' aria-current="page">&copy; by jamilahmed <span className="visually-hidden">(current)</span></a>
+                        </li>
+                        <li className="nav-item">
+                            <a className="nav-link text-bg-info " style={{fontWeight:"700"}} href="https://github.com/jamilahmed2/Newsapp---React" target='_blank' aria-current="page">GITHUB LINK <span className="visually-hidden">(current)</span></a>
                         </li>
                     </ul>
-                    <form className="d-flex my-2 my-lg-0">
-                        <input className="form-control me-sm-2" type="text" placeholder="Search" />
-                        <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                    </form>
                 </div>
             </div>
         </nav>
