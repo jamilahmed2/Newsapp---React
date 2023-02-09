@@ -12,7 +12,7 @@ const  App =()=> {
   // loading bar progress method
   const [progress, setProgress] = useState(0)
 
-
+ // eslint-disable-next-line 
     return (
       <div>
         <BrowserRouter>

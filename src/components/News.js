@@ -30,8 +30,9 @@ const News = (props) => {
 
     useEffect(() => {
         document.title = `${capitalizeFirstLetter(props.category)} - Bandar News`
-        updateNews()
-    }, [])
+        updateNews();
+         // eslint-disable-next-line 
+    }, []);
 
 
     // previous page 
